@@ -1,7 +1,6 @@
 ﻿using Objects.Models;
 ConsoleColor cc = Console.ForegroundColor;
 List<Car> listCar = new List<Car>();
-Console.WriteLine("Hello");
 void List()
 {
     Console.Clear();
