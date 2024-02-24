@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/cnegasuy/RiderProjects/Objects/Objects/Objects.csproj": {}
+    "/home/cnegasuy/RiderProjects/CarAddRemoveList/Objects/Objects/Objects.csproj": {}
   },
   "projects": {
-    "/home/cnegasuy/RiderProjects/Objects/Objects/Objects.csproj": {
+    "/home/cnegasuy/RiderProjects/CarAddRemoveList/Objects/Objects/Objects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cnegasuy/RiderProjects/Objects/Objects/Objects.csproj",
+        "projectUniqueName": "/home/cnegasuy/RiderProjects/CarAddRemoveList/Objects/Objects/Objects.csproj",
         "projectName": "Objects",
-        "projectPath": "/home/cnegasuy/RiderProjects/Objects/Objects/Objects.csproj",
+        "projectPath": "/home/cnegasuy/RiderProjects/CarAddRemoveList/Objects/Objects/Objects.csproj",
         "packagesPath": "/home/cnegasuy/.nuget/packages/",
-        "outputPath": "/home/cnegasuy/RiderProjects/Objects/Objects/obj/",
+        "outputPath": "/home/cnegasuy/RiderProjects/CarAddRemoveList/Objects/Objects/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/cnegasuy/.nuget/NuGet/NuGet.Config"
