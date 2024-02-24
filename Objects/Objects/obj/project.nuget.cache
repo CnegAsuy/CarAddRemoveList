@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9vyENT9Fom+7equuLZci8yI98XzZBVFYADI4u6FYKUgjVrjWA4yLXWFmwTnrLt8pronaum7ANDUlrJ9TIJFT1w==",
+  "success": true,
+  "projectFilePath": "/home/cnegasuy/RiderProjects/Objects/Objects/Objects.csproj",
+  "expectedPackageFiles": [
+    "/home/cnegasuy/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
