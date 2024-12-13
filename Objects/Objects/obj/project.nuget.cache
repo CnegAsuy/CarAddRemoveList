@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ooffkgZO/bCGzc7CPCBP34IOvWYPUPdL27SDnrRVOimyg/Cu97cp+a/rfeRtbP/R2+90jMcsrpFAKfJ7fejo5w==",
+  "dgSpecHash": "1nuzh/gaQDBiwxzmpQUpcPkaFlHNRpemklOfq6tIoFZVUpqNfd6jCZBVwtRSk8ctJ9TQrL8YLsOelXIF95PSrQ==",
   "success": true,
-  "projectFilePath": "/home/cnegasuy/RiderProjects/CarAddRemoveList/Objects/Objects/Objects.csproj",
+  "projectFilePath": "/home/cnegasuy/CarAddRemoveList/Objects/Objects/Objects.csproj",
   "expectedPackageFiles": [
-    "/home/cnegasuy/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+    "/home/cnegasuy/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
   ],
   "logs": []
 }

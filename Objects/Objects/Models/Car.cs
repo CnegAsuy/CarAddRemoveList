@@ -11,12 +11,12 @@ public class Car
     {
         Console.Clear();
         Console.Write("Brand of car: ");
-        this.Brand = Console.ReadLine();
+        this.Brand = Console.ReadLine().Trim();
         Console.Write("Model of brand: ");
-        this.Model = Console.ReadLine();
+        this.Model = Console.ReadLine().Trim();
         this.Year = TakeInt("The year of car: ");
         Console.Write("Color of car: ");
-        this.Color = Console.ReadLine();
+        this.Color = Console.ReadLine().Trim();
         ListCar.Add(this);
     }
     public int TakeInt(string text)
